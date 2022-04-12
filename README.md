@@ -1,2 +1,2 @@
-# leetcode_practice
+# Leetcode Practice
 Problems and Solutions
