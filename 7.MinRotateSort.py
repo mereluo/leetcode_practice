@@ -5,7 +5,7 @@ Explanation: The original array was [1,2,3,4,5] rotated 3 times.
 Return the minimu number of the array
  -> have to run it in O(log(n)) time
 """
-
+# binary search: have left and right pointer, search from the middle
 nums = [3, 4, 5, 1, 2]
 res = nums[0]
 l, r = 0, len(nums) - 1
