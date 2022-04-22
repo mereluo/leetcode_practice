@@ -21,6 +21,7 @@ Output: [1,5,1]
 n1 = [1, 2, 3, 4, 5]
 n2 = [1, 7, 3, 4, 6, 5]
 n3 = [5, 4, 3, 2, 1]
+n4 = [1, 3, 2, 5, 6]
 
 
 def nextPermutation(nums):
@@ -53,3 +54,5 @@ print(nextPermutation(n2))
 print(n2)
 print(nextPermutation(n3))
 print(n3)
+print(nextPermutation(n4))
+print(n4)
